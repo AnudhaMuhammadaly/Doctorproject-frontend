@@ -1,0 +1,13 @@
+.card{
+  margin: 30px;
+  text-align: center;
+  justify-content: space-evenly;
+  width: 300px;
+  /* background-color: rgb(148, 208, 231); */
+ 
+ 
+  backdrop-filter: blur(10px);
+
+  
+
+}
